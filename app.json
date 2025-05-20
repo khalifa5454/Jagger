@@ -25,8 +25,8 @@
       "required": false,
       "value": "."
     },
-    "SESSION_ID": {
-      "description": "session id",
+    "SESSION_ID": {levanter_192e698d20cead4c8b86036521d79253f5
+      "description": "levanter_192e698d20cead4c8b86036521d79253f5",
       "required": true,
       "value": ""
     },
@@ -35,8 +35,8 @@
       "required": false,
       "value": "❤️,LyFE"
     },
-    "HEROKU_APP_NAME": {
-      "description": "Heroku app name, same as above entered.",
+    "HEROKU_APP_NAME": {Levanter 
+      "description": "levanter",
       "required": true
     },
     "HEROKU_API_KEY": {
