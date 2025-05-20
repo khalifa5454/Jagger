@@ -1,6 +1,6 @@
 {
   "session1": {
-    "SESSION_ID": "levanter_sessionid",
+    "SESSION_ID": "levanter_192e698d20cead4c8b86036521d79253f5",
     "PREFIX": "^[.,!]",
     "SUDO": "0",
     "STICKER_PACKNAME": "❤️,LyFE",
